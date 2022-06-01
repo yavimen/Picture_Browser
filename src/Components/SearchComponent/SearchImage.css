@@ -1,0 +1,12 @@
+.search-image-container
+{
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+}
+
+.searchline{
+    border-radius: 7px;
+    margin-right: 10px;
+    width: 30%;
+}

@@ -1,0 +1,30 @@
+.new-picture-prop-field-container
+{
+    margin-top: 40px;
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 30px;
+    width: 60%;
+    margin-left: 20%;
+}
+.new-picture-prop-fill-label{
+    text-align: center;
+    margin-bottom: 2px;
+    font-family: Tahoma;
+    font-weight: bold;
+    font-size: 1.5em;
+}
+.new-picture-prop-field{
+    height: 3em;
+    font-family: Tahoma;
+    font-size: 1.2em;
+    border: 1px solid black;
+    width: 70%;
+    margin-left: 15%;
+    margin-bottom: 30px;
+}
+.addbtn
+{
+    width: 20%;
+    margin-left: 40%;
+}
